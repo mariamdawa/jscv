@@ -1,0 +1,21 @@
+{	"image": "images/portfolio.jpg",
+	
+	"info":[
+		"Name: Mariam Samir Dawa.",
+		"Email: mariamdawa@hotmail.com",
+		"School: Elnasr Girls' College.",
+		 "College: Faculty Of Science, Computer Science department."],
+
+	"experiences":["Fluent in C and C++.", 
+					"Intermediate knowledge in Java, Javascript, and Swift. ",
+					"Intermediate in HTML, and CSS.",
+					"Academic Committe member and Content Creator at the English Club Alexandria University."],
+	"hobbies":["Reading novels and short stories.",
+				"Watching movies.",
+				"Participating in amateur acting gigs.",
+				"Participating in Civil works.",
+				"Participating in Conversation Clubs.",
+				"Cycling."]
+
+
+}
